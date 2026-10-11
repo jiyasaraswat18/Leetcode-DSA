@@ -1,6 +1,6 @@
 class Solution {
 public:
-    int totalFruit(vector<int>& fruits) {
+    int totalFruits(vector<int>& fruits) {
       int n=fruits.size();
       int l=0;
       int len=0;
