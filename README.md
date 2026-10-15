@@ -13,4 +13,4 @@ This repository contains my solutions to LeetCode problems implemented in **C++*
 
 📈 Currently following **Striver's A2Z DSA Sheet** and solving LeetCode problems regularly.
 
-*"Consistency is the key to success."*
+*"Consistency is the key to success..."*
